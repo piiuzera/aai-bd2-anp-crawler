@@ -1,0 +1,26 @@
+{
+  "name": "aai-bd2-anp-crawler",
+  "version": "1.0.0",
+  "description": "Atividade Autoinstrucional Banco de Dados II - Anp Crawler",
+  "main": "Server.js",
+  "scripts": {
+    "test": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piiuzera/aai-bd2-anp-crawler.git"
+  },
+  "keywords": [
+    "fumec",
+    "anp",
+    "aai",
+    "bd2",
+    "database"
+  ],
+  "author": "Matheus Amaro (matheus.amaro@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piiuzera/aai-bd2-anp-crawler/issues"
+  },
+  "homepage": "https://github.com/piiuzera/aai-bd2-anp-crawler#readme"
+}
